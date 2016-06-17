@@ -1,0 +1,32 @@
+h4, h5 {
+    font-weight: 500;
+    text-align: center;
+}
+
+.ui-page-theme-a a, html .ui-bar-a a, html .ui-body-a a, html body .ui-group-theme-a a {
+    font-weight: 500;
+}
+
+.ui-btn {
+    font-size: 14px;
+}
+
+.answer1 {
+    white-space: normal !important;
+}
+
+.answer2 {
+    white-space: normal !important;
+}
+
+.answer {
+    white-space: normal !important;
+}
+
+.ui-header .ui-title {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+textarea.ui-content {   text-align&#58; center;}input.ui-content {   text-align&#58; center;}
+

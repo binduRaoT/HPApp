@@ -1,0 +1,166 @@
+{
+    "book2": [
+        {
+			"chapId": "A1",
+            "chapterId": "Chapter1",
+			"questions": [
+				{
+					"queId": "A1A1",
+					"question": "Why does Uncle Vernon treat Harry 'like a bomb that might go off'?",
+					"answerId": "0",
+					"questionFormat": "1",
+					"answers": [
+						"Uncle Vernon knows Harry is a wizard. They are afraid he will use magic on them.",
+						"Uncle Vernon knows Harry is a wizard. They are afraid he will cause Voldemort to come to Privet Drive.",
+						"Uncle Vernon knows Harry is a wizard. They are afraid he will summon other witches and wizards.",
+						"Uncle Vernon knows Harry is a wizard. They are afraid he is too inexperienced with magic and will cause a disaster accidentally."
+					],
+					"contextGroup": "7De",
+					"keys1":[],
+					"keys2":[]
+				},
+				{
+					"queId": "A1A2",
+					"question": "Why does Uncle Vernon say that this day is important?",
+					"answerId": 2,
+					"questionFormat": "2",
+					"answers": [
+						"It is Harry's birthday.",
+						"Dudley has friends coming over.",
+						"A builder and his wife are coming to dinner.",
+						"Uncle Vernon will be competing in a golf tournament"
+					],
+					"contextGroup": "7V",
+					"keys1": [
+						"Builder",
+						"dinner",
+						"evening"
+					],
+					"keys2":[]
+				}
+			]
+        },
+        {
+			"chapId": "B1",
+            "chapterId": "Chapter2",
+			"questions": [
+				{
+					"queId": "B1A1",
+					"question": "What does Harry notice in the hedge?",
+					"answerId": 0,
+					"questionFormat": "2",
+					"answers": [
+						"eyes",
+						"a man hiding",
+						"Hedwig",
+						"a letter"
+					],
+					"contextGroup": "7Ev",
+					"keys1": [
+						"Builder",
+						"dinner",
+						"evening"
+					],
+					"keys2":[]
+				},
+				{
+					"queId": "B1A2",
+					"question": "What happens at the very end of the chapter?",
+					"answerId": "",
+					"questionFormat": "3",
+					"answers": [],
+					"contextGroup": "7De",
+					"keys1": [
+						"key1",
+						"key2",
+						"key3"
+					],
+					"keys2":[]
+				}
+			]
+        },
+        {
+			"chapId": "C1",
+            "chapterId": "Chapter3",
+			"questions": [
+				{
+					"queId": "C1A1",
+					"question": "Why does Dobby burst into tears?",
+					"answerId": 2,
+					"questionFormat": "1",
+					"answers": [
+						"Harry treats him like an equal.",
+						"Harry yells at him to be quiet.",
+						"Harry invites him to sit on the bed.",
+						"Harry tells him that he must leave at once."
+					],
+					"contextGroup": "7V",
+					"keys1": [
+						"Builder",
+						"dinner",
+						"evening"
+					],
+					"keys2":[]
+				},
+				{
+					"queId": "C1A2",
+					"question": "What emotion does Harry feel when he thinks of the Weasley family compared to his experience at the Dursleys?",
+					"answerId": "",
+					"questionFormat": "4",
+					"answers": [],
+				    "subQuestion": "How did Harry view Dumbledore's departure?",
+					"contextGroup": "7Ev",
+					"keys1": [
+						"key1",
+						"key2",
+						"key3"
+					],
+					"keys2": [
+						"key1",
+						"key2",
+						"key3"
+					]
+				}
+			]
+        },
+        {
+			"chapId": "D1",
+            "chapterId": "Chapter4",
+			"questions": [
+				{
+					"queId": "D1A1",
+					"question": "Testing format c question",
+					"answerId": "",	
+					"questionFormat": "3",
+					"answers": [],
+					"contextGroup": "7Ev",
+					"keys1": [
+						"key1",
+						"key2",
+						"key3"
+					],
+					"keys2":[]
+				},
+				{
+					"queId": "D1A2",
+					"question": "Testing format d question",
+					"answerId": "",	
+					"questionFormat": "4",
+					"answers": [],
+					"subQuestion": "Testing format d sub question",
+					"contextGroup": "7De",
+					"keys1": [
+						"key1",
+						"key2",
+						"key3"
+					],
+					"keys2": [
+						"key1",
+						"key2",
+						"key3"
+					]
+				}
+			]
+        }
+    ]
+}
